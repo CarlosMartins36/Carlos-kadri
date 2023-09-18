@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Carlos-kadri
-- 👀 I’m interested in programação e criação
-- 🌱 I’m currently learning linguagem HTML e JAVA 
-- 💞️ I’m looking to collaborate on  projetos
-- 📫 How to reach me  pode me enviar  e-mail kadriblessed@gmail.com
+- 👋 Hi, I’m @Carlos Martins;
+- 👀 I’m interested in programação e criação Mobile;
+- 🌱 I’m currently learning linguagem DART e Framework FLUTTER; 
+- 💞️ I’m looking to collaborate on  projetos;
+- 📫 How to reach me  pode me enviar  e-mail: carlosmartins.dev01@gmail.com;
 
 <!---
 Carlos-kadri/Carlos-kadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
